@@ -1,4 +1,4 @@
-# ![logo](https://github.com/gvieiracurti/README/blob/master/coupons_small.png)Bienvenido al proyecto Coupons - ASP
+# ![logo](https://github.com/gvieiracurti/README/blob/master/coupons_small.png)  Bienvenido al proyecto Coupons - ASP
 
 ## Descripción y propósito del proyecto
 *El proyecto surge para cubrir una necesidad común en el mundo del e-commerce, la creación, gestión y trazabilidad de cupones promocionales y descuentos. Dado un cupón que una compañía ofrezca el sistema deberá validar si el cupón es válido y si además cumple con las reglas para que sea aplicado.*
