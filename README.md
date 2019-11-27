@@ -43,4 +43,10 @@ El ecosistema es un sistema SAAS con una arquitectura de microservicios formado 
 | promoReport | Ruby | Ruby | https://coupons-asp-promo-report.herokuapp.com/ |
 | demographicReport | JAVA | Spring Boot | https://coupons-asp-demographic-report.herokuapp.com/ |
 
-
+| Microservicio | url healthcheck |
+| --- | --- | 
+| coupons-asp | https://coupons-asp.herokuapp.com/healthcheck/ |
+| evaluate | https://coupons-asp-evaluate.herokuapp.com/healthcheck/ |
+| monitoring | https://coupons-asp-monitoring.herokuapp.com/actuator/health/ |
+| promoReport | https://coupons-asp-promo-report.herokuapp.com/healthcheck/ |
+| demographicReport | https://coupons-asp-demographic-report.herokuapp.com/actuator/health/ |
